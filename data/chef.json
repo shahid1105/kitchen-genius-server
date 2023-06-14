@@ -2,55 +2,175 @@
   {
     "_id": "1",
     "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
-    "chefName": "John Smith",
-    "yearsOfExperience": "10 years",
-    "numberOfRecipes": 50,
-    "likes": 1000,
-    "description": "John Smith is a passionate chef with a decade of experience in the culinary world. He specializes in creating mouthwatering dishes that combine traditional flavors with modern techniques."
-  },
-  {
-    "_id": "2",
-    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
-    "chefName": "Emily Johnson",
-    "yearsOfExperience": "8 years",
-    "numberOfRecipes": 40,
-    "likes": 850,
-    "description": "Emily Johnson is an accomplished chef known for her innovative approach to cooking. With 8 years of experience, she has mastered the art of creating unique and visually stunning dishes."
-  },
-  {
-    "_id": "3",
-    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
-    "chefName": "Michael Anderson",
-    "yearsOfExperience": "15 years",
-    "numberOfRecipes": 80,
-    "likes": 1200,
-    "description": "Michael Anderson is a seasoned chef with an impressive career spanning 15 years. His expertise lies in creating exquisite gourmet dishes that showcase the finest ingredients and flavors."
-  },
-  {
-    "_id": "4",
-    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
-    "chefName": "Sophia Lee",
-    "yearsOfExperience": "5 years",
-    "numberOfRecipes": 30,
-    "likes": 700,
-    "description": "Sophia Lee is a talented chef with 5 years of experience. She is known for her creative approach to fusion cuisine, blending diverse flavors and techniques from around the world."
-  },
-  {
-    "_id": "5",
-    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
-    "chefName": "Robert Johnson",
-    "yearsOfExperience": "12 years",
-    "numberOfRecipes": 60,
-    "likes": 1100,
-    "description": "Robert Johnson is a highly skilled chef who has honed his craft over 12 years of culinary exploration. He is known for his precise techniques and ability to elevate classic dishes."
-  },
-  {
-    "_id": "6",
-    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
     "chefName": "Olivia Wilson",
     "yearsOfExperience": "7 years",
     "numberOfRecipes": 35,
     "likes": 800,
-    "description": "Olivia Wilson is a talented chef with 7 years of experience. She specializes in creating delicious and visually appealing desserts that delight both the taste buds and the eyes."
+    "description": "Olivia Wilson is a talented chef with 7 years of experience. She specializes in creating delicious and visually appealing desserts that delight both the taste buds and the eyes.",
+    "recipes": [
+      {
+        "foodName": "Pad See Ew",
+        "foodImage": "https://i.ibb.co/W6THL5B/pad-see-ew.jpg",
+        "rating": 4.4,
+        "ingredients": ["Wide rice noodles", "Chicken", "Broccoli"]
+      },
+      {
+        "foodName": "Green Curry",
+        "foodImage": "https://i.ibb.co/ZVLgTQK/green-curry.jpg",
+        "rating": 4.6,
+        "ingredients": ["Green curry paste", "Coconut milk", "Chicken"]
+      },
+      {
+        "foodName": "Tom Yum Soup",
+        "foodImage": "https://i.ibb.co/qdsYHWR/tom-yum-soup.jpg",
+        "rating": 4.2,
+        "ingredients": ["Lemongrass", "Galangal", "Shrimp"]
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+    "chefName": "Chef Name 2",
+    "yearsOfExperience": "2 years",
+    "numberOfRecipes": 15,
+    "likes": 400,
+    "description": "Description of Chef 2",
+    "recipes": [
+      {
+        "foodName": "Pad Thai",
+        "foodImage": "https://i.ibb.co/vsmTBrW/pad-thai.jpg",
+        "rating": 4.8,
+        "ingredients": ["Rice noodles", "Shrimp", "Bean sprouts"]
+      },
+      {
+        "foodName": "Massaman Curry",
+        "foodImage": "https://i.ibb.co/zhxjt72/massaman-curry.jpg",
+        "rating": 4.5,
+        "ingredients": ["Massaman curry paste", "Coconut milk", "Beef"]
+      },
+      {
+        "foodName": "Som Tum (Green Papaya Salad)",
+        "foodImage": "https://i.ibb.co/fkcc7nC/green-papaya-salad.jpg",
+        "rating": 4.3,
+        "ingredients": ["Green papaya", "Cherry tomatoes", "Peanuts"]
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+    "chefName": "Chef Name 3",
+    "yearsOfExperience": "5 years",
+    "numberOfRecipes": 25,
+    "likes": 600,
+    "description": "Description of Chef 3",
+    "recipes": [
+      {
+        "foodName": "Green Papaya Salad",
+        "foodImage": "https://i.ibb.co/fkcc7nC/green-papaya-salad.jpg",
+        "rating": 4.1,
+        "ingredients": ["Green papaya", "Cherry tomatoes", "Peanuts"]
+      },
+      {
+        "foodName": "Red Curry",
+        "foodImage": "https://i.ibb.co/fG7wSnW/red-curry.jpg",
+        "rating": 4.7,
+        "ingredients": ["Red curry paste", "Coconut milk", "Chicken"]
+      },
+      {
+        "foodName": "Thai Fried Rice",
+        "foodImage": "https://i.ibb.co/59nTf6S/thai-fried-rice.jpg",
+        "rating": 4.4,
+        "ingredients": ["Jasmine rice", "Shrimp", "Eggs"]
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+    "chefName": "Chef Name 4",
+    "yearsOfExperience": "3 years",
+    "numberOfRecipes": 20,
+    "likes": 350,
+    "description": "Description of Chef 4",
+    "recipes": [
+      {
+        "foodName": "Pad Kra Pao",
+        "foodImage": "https://i.ibb.co/CVxJGn9/pad-kra-pao.jpg",
+        "rating": 4.3,
+        "ingredients": ["Minced pork", "Thai holy basil", "Chili peppers"]
+      },
+      {
+        "foodName": "Tom Kha Gai",
+        "foodImage": "https://i.ibb.co/3S3DKYF/tom-kha-gai.jpg",
+        "rating": 4.6,
+        "ingredients": ["Chicken", "Coconut milk", "Galangal"]
+      },
+      {
+        "foodName": "Mango Sticky Rice",
+        "foodImage": "https://i.ibb.co/qYyB7T6/mango-sticky-rice.jpg",
+        "rating": 4.9,
+        "ingredients": ["Sticky rice", "Mango", "Coconut milk"]
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+    "chefName": "Chef Name 5",
+    "yearsOfExperience": "4 years",
+    "numberOfRecipes": 30,
+    "likes": 500,
+    "description": "Description of Chef 5",
+    "recipes": [
+      {
+        "foodName": "Green Curry",
+        "foodImage": "https://i.ibb.co/ZVLgTQK/green-curry.jpg",
+        "rating": 4.1,
+        "ingredients": ["Green curry paste", "Coconut milk", "Chicken"]
+      },
+      {
+        "foodName": "Tom Yum Soup",
+        "foodImage": "https://i.ibb.co/qdsYHWR/tom-yum-soup.jpg",
+        "rating": 4.4,
+        "ingredients": ["Lemongrass", "Galangal", "Shrimp"]
+      },
+      {
+        "foodName": "Pad Thai",
+        "foodImage": "https://i.ibb.co/vsmTBrW/pad-thai.jpg",
+        "rating": 4.7,
+        "ingredients": ["Rice noodles", "Shrimp", "Bean sprouts"]
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "chefPicture": "https://i.ibb.co/5hN9f9c/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+    "chefName": "Chef Name 6",
+    "yearsOfExperience": "6 years",
+    "numberOfRecipes": 40,
+    "likes": 900,
+    "description": "Description of Chef 6",
+    "recipes": [
+      {
+        "foodName": "Massaman Curry",
+        "foodImage": "https://i.ibb.co/zhxjt72/massaman-curry.jpg",
+        "rating": 4.2,
+        "ingredients": ["Massaman curry paste", "Coconut milk", "Beef"]
+      },
+      {
+        "foodName": "Pad See Ew",
+        "foodImage": "https://i.ibb.co/W6THL5B/pad-see-ew.jpg",
+        "rating": 4.5,
+        "ingredients": ["Wide rice noodles", "Chicken", "Broccoli"]
+      },
+      {
+        "foodName": "Thai Iced Tea",
+        "foodImage": "https://i.ibb.co/sVYHnDn/thai-iced-tea.jpg",
+        "rating": 4.3,
+        "ingredients": ["Black tea", "Condensed milk", "Ice"]
+      }
+    ]
   }
 ]
