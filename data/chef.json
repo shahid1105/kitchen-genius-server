@@ -1,5 +1,6 @@
 [
   {
+    "_id": "1",
     "chefPicture": "https://example.com/chef1-picture.jpg",
     "chefName": "John Smith",
     "yearsOfExperience": 10,
@@ -8,6 +9,7 @@
     "description": "John Smith is a passionate chef with a decade of experience in the culinary world. He specializes in creating mouthwatering dishes that combine traditional flavors with modern techniques."
   },
   {
+    "_id": "2",
     "chefPicture": "https://example.com/chef2-picture.jpg",
     "chefName": "Emily Johnson",
     "yearsOfExperience": 8,
@@ -16,6 +18,7 @@
     "description": "Emily Johnson is an accomplished chef known for her innovative approach to cooking. With 8 years of experience, she has mastered the art of creating unique and visually stunning dishes."
   },
   {
+    "_id": "3",
     "chefPicture": "https://example.com/chef3-picture.jpg",
     "chefName": "Michael Anderson",
     "yearsOfExperience": 15,
@@ -24,6 +27,7 @@
     "description": "Michael Anderson is a seasoned chef with an impressive career spanning 15 years. His expertise lies in creating exquisite gourmet dishes that showcase the finest ingredients and flavors."
   },
   {
+    "_id": "4",
     "chefPicture": "https://example.com/chef4-picture.jpg",
     "chefName": "Sophia Lee",
     "yearsOfExperience": 5,
@@ -32,6 +36,7 @@
     "description": "Sophia Lee is a young and talented chef who brings a fresh perspective to the culinary scene. Despite her relatively short career, she has already gained recognition for her innovative recipes."
   },
   {
+    "_id": "5",
     "chefPicture": "https://example.com/chef5-picture.jpg",
     "chefName": "Daniel Wilson",
     "yearsOfExperience": 12,
@@ -40,6 +45,7 @@
     "description": "Daniel Wilson is a highly skilled chef known for his extensive knowledge of international cuisines. With 12 years of experience, he continues to push boundaries and create unforgettable culinary experiences."
   },
   {
+    "_id": "6",
     "chefPicture": "https://example.com/chef6-picture.jpg",
     "chefName": "Olivia Martinez",
     "yearsOfExperience": 7,
@@ -48,6 +54,7 @@
     "description": "Olivia Martinez is a versatile chef who excels in both traditional and contemporary cooking styles. Her passion for food is evident in every dish she creates."
   },
   {
+    "_id": "7",
     "chefPicture": "https://example.com/chef7-picture.jpg",
     "chefName": "William Davis",
     "yearsOfExperience": 9,
@@ -56,14 +63,16 @@
     "description": "William Davis is a dedicated chef known for his commitment to using locally sourced, seasonal ingredients. His culinary creations reflect his love for nature and sustainable practices."
   },
   {
+    "_id": "8",
     "chefPicture": "https://example.com/chef8-picture.jpg",
     "chefName": "Ava Thompson",
     "yearsOfExperience": 6,
     "numberOfRecipes": 35,
     "likes": 700,
-    "description": "Ava Thompson is a talented chef with a flair for creating elegant and visually stunning dishes. Her attention to detail and artistic presentation make her creations truly memorable."
+    "description": "Ava Thompson is a talented chef who brings a fusion of flavors to her dishes. Her culinary style is influenced by her multicultural background and passion for exploring new taste combinations."
   },
   {
+    "_id": "9",
     "chefPicture": "https://example.com/chef9-picture.jpg",
     "chefName": "James Rodriguez",
     "yearsOfExperience": 11,
@@ -72,6 +81,7 @@
     "description": "James Rodriguez is a highly experienced chef who has honed his skills in renowned kitchens around the world. His passion for culinary excellence is reflected in every dish he prepares."
   },
   {
+    "_id": "10",
     "chefPicture": "https://example.com/chef10-picture.jpg",
     "chefName": "Isabella Harris",
     "yearsOfExperience": 4,
