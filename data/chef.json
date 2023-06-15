@@ -12,21 +12,39 @@
         "foodName": "Pad See Ew",
         "foodImage": "https://i.ibb.co/cckgFtb/stir-fry-noodles-chicken-chinese-260nw-1532899955.webp",
         "rating": 4.4,
-        "ingredients": ["Wide rice noodles", "Chicken", "Broccoli"],
+        "ingredients": [
+          "Wide rice noodles",
+          "Chicken",
+          "Broccoli",
+          "Chicken",
+          "Broccoli"
+        ],
         "cookingMethod": "1. Heat oil in a pan. \n2. Add chicken and stir-fry until cooked. \n3. Add wide rice noodles and stir-fry for a few minutes. \n4. Add broccoli and soy sauce. \n5. Stir-fry until everything is well combined. \n6. Serve hot."
       },
       {
         "foodName": "Green Curry",
         "foodImage": "https://i.ibb.co/7xDDTL0/images.jpg",
         "rating": 4.6,
-        "ingredients": ["Green curry paste", "Coconut milk", "Chicken"],
+        "ingredients": [
+          "Green curry paste",
+          "Coconut milk",
+          "Chicken",
+          "Coconut milk",
+          "Chicken"
+        ],
         "cookingMethod": "1. Heat oil in a pan. \n2. Add green curry paste and cook for a minute. \n3. Add chicken and cook until browned. \n4. Pour in coconut milk and simmer for 10 minutes. \n5. Serve hot with rice."
       },
       {
         "foodName": "Tom Yum Soup",
         "foodImage": "https://i.ibb.co/Q86m8G1/Tom-Yum-Soup-Featured-2.jpg",
         "rating": 4.2,
-        "ingredients": ["Lemongrass", "Galangal", "Shrimp"],
+        "ingredients": [
+          "Lemongrass",
+          "Galangal",
+          "Shrimp",
+          "Galangal",
+          "Shrimp"
+        ],
         "cookingMethod": "1. Boil water in a pot. \n2. Add lemongrass and galangal. \n3. Add shrimp and cook until pink. \n4. Season with fish sauce and lime juice. \n5. Serve hot."
       }
     ]
@@ -44,21 +62,39 @@
         "foodName": "Pad Thai",
         "foodImage": "https://i.ibb.co/yBvrjzp/istockphoto-510163478-612x612.jpg",
         "rating": 4.8,
-        "ingredients": ["Rice noodles", "Shrimp", "Bean sprouts"],
+        "ingredients": [
+          "Rice noodles",
+          "Shrimp",
+          "Bean sprouts",
+          "Shrimp",
+          "Bean sprouts"
+        ],
         "cookingMethod": "1. Soak rice noodles in warm water until soft. \n2. Heat oil in a pan and add shrimp. \n3. Add rice noodles and stir-fry for a few minutes. \n4. Add bean sprouts, eggs, and sauce. \n5. Stir-fry until everything is well combined. \n6. Serve hot with lime wedges."
       },
       {
         "foodName": "Massaman Curry",
         "foodImage": "https://i.ibb.co/7SDYrTb/istockphoto-1372453664-612x612.jpg",
         "rating": 4.5,
-        "ingredients": ["Massaman curry paste", "Coconut milk", "Beef"],
+        "ingredients": [
+          "Massaman curry paste",
+          "Coconut milk",
+          "Beef",
+          "Coconut milk",
+          "Beef"
+        ],
         "cookingMethod": "1. Heat oil in a pan. \n2. Add massaman curry paste and cook for a minute. \n3. Add beef and cook until browned. \n4. Pour in coconut milk and simmer for 30 minutes. \n5. Serve hot with rice."
       },
       {
         "foodName": "Som Tum (Green Papaya Salad)",
         "foodImage": "https://i.ibb.co/ZMnTS3z/Green-Papaya-Salad.jpg",
         "rating": 4.3,
-        "ingredients": ["Green papaya", "Cherry tomatoes", "Peanuts"],
+        "ingredients": [
+          "Green papaya",
+          "Cherry tomatoes",
+          "Peanuts",
+          "Cherry tomatoes",
+          "Peanuts"
+        ],
         "cookingMethod": "1. Shred green papaya and soak in cold water. \n2. Drain and mix with cherry tomatoes, peanuts, and dressing. \n3. Toss well to combine. \n4. Serve chilled."
       }
     ]
@@ -76,21 +112,33 @@
         "foodName": "Green Papaya Salad",
         "foodImage": "https://i.ibb.co/ZMnTS3z/Green-Papaya-Salad.jpg",
         "rating": 4.1,
-        "ingredients": ["Green papaya", "Cherry tomatoes", "Peanuts"],
+        "ingredients": [
+          "Green papaya",
+          "Cherry tomatoes",
+          "Peanuts",
+          "Cherry tomatoes",
+          "Peanuts"
+        ],
         "cookingMethod": "1. Shred green papaya and soak in cold water. \n2. Drain and mix with cherry tomatoes, peanuts, and dressing. \n3. Toss well to combine. \n4. Serve chilled."
       },
       {
         "foodName": "Red Curry",
         "foodImage": "https://i.ibb.co/7VJtFBL/images-1.jpg",
         "rating": 4.7,
-        "ingredients": ["Red curry paste", "Coconut milk", "Chicken"],
+        "ingredients": [
+          "Red curry paste",
+          "Coconut milk",
+          "Chicken",
+          "Coconut milk",
+          "Chicken"
+        ],
         "cookingMethod": "1. Heat oil in a pan. \n2. Add red curry paste and cook for a minute. \n3. Add chicken and cook until browned. \n4. Pour in coconut milk and simmer for 15 minutes. \n5. Serve hot with rice."
       },
       {
         "foodName": "Thai Fried Rice",
         "foodImage": "https://i.ibb.co/cg0X9w2/Chicken-Fried-Rice-Served-with-a-Gold-Spoon.jpg",
         "rating": 4.4,
-        "ingredients": ["Jasmine rice", "Shrimp", "Eggs"],
+        "ingredients": ["Jasmine rice", "Shrimp", "Eggs", "Shrimp", "Eggs"],
         "cookingMethod": "1. Cook jasmine rice and let it cool. \n2. Heat oil in a pan and add shrimp. \n3. Add cooked rice and stir-fry for a few minutes. \n4. Push the rice to the side, crack eggs, and scramble. \n5. Combine everything and season with soy sauce. \n6. Serve hot."
       }
     ]
@@ -108,21 +156,39 @@
         "foodName": "Thai Iced Tea",
         "foodImage": "https://i.ibb.co/J2chRJj/10e9r6x3-720.jpg",
         "rating": 4.5,
-        "ingredients": ["Black tea", "Condensed milk", "Ice"],
+        "ingredients": [
+          "Black tea",
+          "Condensed milk",
+          "Ice",
+          "Condensed milk",
+          "Ice"
+        ],
         "cookingMethod": "1. Steep black tea in hot water for 5 minutes. \n2. Strain and let it cool. \n3. Add condensed milk and stir well. \n4. Pour over ice and serve chilled."
       },
       {
         "foodName": "Panang Curry",
         "foodImage": "https://i.ibb.co/9yDqRZJ/istockphoto-887334026-612x612.jpg",
         "rating": 4.3,
-        "ingredients": ["Panang curry paste", "Coconut milk", "Beef"],
+        "ingredients": [
+          "Panang curry paste",
+          "Coconut milk",
+          "Beef",
+          "Coconut milk",
+          "Beef"
+        ],
         "cookingMethod": "1. Heat oil in a pan. \n2. Add panang curry paste and cook for a minute. \n3. Add beef and cook until browned. \n4. Pour in coconut milk and simmer for 20 minutes. \n5. Serve hot with rice."
       },
       {
         "foodName": "Mango Sticky Rice",
         "foodImage": "https://i.ibb.co/pKHjJLC/rice-mango-620x350-61525952416.jpg",
         "rating": 4.7,
-        "ingredients": ["Sticky rice", "Mango", "Coconut milk"],
+        "ingredients": [
+          "Sticky rice",
+          "Mango",
+          "Coconut milk",
+          "Mango",
+          "Coconut milk"
+        ],
         "cookingMethod": "1. Soak sticky rice in water for 4-6 hours. \n2. Steam the rice until tender. \n3. Mix coconut milk with sugar and salt, and heat until dissolved. \n4. Serve sticky rice with sliced mango and drizzle with coconut milk mixture."
       }
     ]
@@ -140,21 +206,39 @@
         "foodName": "Pineapple Fried Rice",
         "foodImage": "https://i.ibb.co/2NgSDjR/thai-pineapple-fried-rice-16.jpg",
         "rating": 4.6,
-        "ingredients": ["Jasmine rice", "Shrimp", "Pineapple"],
+        "ingredients": [
+          "Jasmine rice",
+          "Shrimp",
+          "Pineapple",
+          "Shrimp",
+          "Pineapple"
+        ],
         "cookingMethod": "1. Cook jasmine rice and let it cool. \n2. Heat oil in a pan and add shrimp. \n3. Add cooked rice and stir-fry for a few minutes. \n4. Add pineapple, vegetables, and seasonings. \n5. Stir-fry until everything is well combined. \n6. Serve hot."
       },
       {
         "foodName": "Chicken Satay",
         "foodImage": "https://i.ibb.co/HHyHJ3Q/190418-chicken-satay-horizontal-300-1556573740.jpg",
         "rating": 4.8,
-        "ingredients": ["Chicken thighs", "Peanut sauce", "Cucumber"],
+        "ingredients": [
+          "Chicken thighs",
+          "Peanut sauce",
+          "Cucumber",
+          "Peanut sauce",
+          "Cucumber"
+        ],
         "cookingMethod": "1. Marinate chicken thighs in a mixture of spices. \n2. Skewer the chicken and grill until cooked. \n3. Serve hot with peanut sauce and cucumber slices."
       },
       {
         "foodName": "Thai Green Papaya Salad",
         "foodImage": "https://i.ibb.co/ZMnTS3z/Green-Papaya-Salad.jpg",
         "rating": 4.2,
-        "ingredients": ["Green papaya", "Carrots", "Fish sauce"],
+        "ingredients": [
+          "Green papaya",
+          "Carrots",
+          "Fish sauce",
+          "Carrots",
+          "Fish sauce"
+        ],
         "cookingMethod": "1. Shred green papaya and carrots. \n2. Mix with fish sauce, lime juice, and chili. \n3. Toss well to combine. \n4. Serve chilled."
       }
     ]
@@ -172,21 +256,39 @@
         "foodName": "Thai Iced Coffee",
         "foodImage": "https://i.ibb.co/J2chRJj/10e9r6x3-720.jpg",
         "rating": 4.4,
-        "ingredients": ["Ground coffee", "Sweetened condensed milk", "Ice"],
+        "ingredients": [
+          "Ground coffee",
+          "Sweetened condensed milk",
+          "Ice",
+          "Sweetened condensed milk",
+          "Ice"
+        ],
         "cookingMethod": "1. Brew strong coffee. \n2. Pour hot coffee over a glass filled with condensed milk and ice. \n3. Stir well until condensed milk is fully mixed. \n4. Serve chilled."
       },
       {
         "foodName": "Yellow Curry",
         "foodImage": "https://i.ibb.co/r6L669h/istockphoto-931579458-612x612.jpg",
         "rating": 4.7,
-        "ingredients": ["Yellow curry paste", "Coconut milk", "Potatoes"],
+        "ingredients": [
+          "Yellow curry paste",
+          "Coconut milk",
+          "Potatoes",
+          "Coconut milk",
+          "Potatoes"
+        ],
         "cookingMethod": "1. Heat oil in a pan. \n2. Add yellow curry paste and cook for a minute. \n3. Add potatoes and cook until tender. \n4. Pour in coconut milk and simmer for 15 minutes. \n5. Serve hot with rice."
       },
       {
         "foodName": "Thai Coconut Soup",
         "foodImage": "https://i.ibb.co/1n08XM7/2319909-the-best-thai-coconut-soup-Aja-1x1-1-d2385a72da884e75a7364d6ecca5680e.jpg",
         "rating": 4.3,
-        "ingredients": ["Coconut milk", "Mushrooms", "Lemongrass"],
+        "ingredients": [
+          "Coconut milk",
+          "Mushrooms",
+          "Lemongrass",
+          "Mushrooms",
+          "Lemongrass"
+        ],
         "cookingMethod": "1. Boil coconut milk in a pot. \n2. Add mushrooms and lemongrass. \n3. Season with fish sauce and lime juice. \n4. Serve hot."
       }
     ]
